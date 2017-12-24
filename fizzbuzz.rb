@@ -6,5 +6,5 @@ def fizzbuzz(input)
   elsif input % 5 == 0 then
     puts "Buzz"
   else
-  end 
+  end
 end
